@@ -1,59 +1,51 @@
-Harsha Maram — BTECH CSE , COMPUTER SCIENCE ENGINEERING @LPU
-👤 PROFILES
+🚀 Harsha’s Dev Playground & Passion Project Hub 🚀
+Hey there! I’m Harsha — BTech Final Year CSE @ LPU - 2k25 💻🔥
+
+✨ Who am I?
+A tech enthusiast with a hunger for coding, a love for fine arts, and a knack for storytelling. I’m not just a programmer; I’m a culture explorer and a creativity junkie — blending logic with art to craft unique projects that speak volumes.
 
 
-LINKEDIN: linkedin.com/in/Harsha maram
+🛠️ Skills & Superpowers
+Programming Languages: Python 🐍 | Java | C++ | JavaScript ⚡
 
-PORTFOLIO: Coming Soon...
+Frameworks & Tools: React.js ⚛️ | Flask | UiPath 🤖 | Git & GitHub 🔧
 
-💼 ROLES & RESPONSIBILITIES
-CYBERSECURITY AUTOMATION ENGINEER (STUDENT PROJECTS)
-Designing & implementing AI-driven malware detection and automated incident response systems.
+Databases: MySQL | MongoDB
 
-FULL-STACK DEVELOPER
-Crafting scalable, clean-architecture web applications with an emphasis on intuitive UX/UI.
+Cloud & DevOps: Basics of AWS ☁️ | CI/CD Pipelines
 
-CREATIVE WRITER & STORYTELLER
-Authoring a novel blending personal growth and technical journey narratives.
+Cybersecurity: Malware Analysis 🔍 | Automated Incident Response
 
-CULTURAL RESEARCHER & FINE ARTS ENTHUSIAST
-Integrating artistic and cultural insights into technology and design thinking.
+AI & Machine Learning: Applied AI for Threat Detection & Log Anomaly Analysis 🤖🛡️
 
-🎓 EDUCATION
-BACHELOR OF TECHNOLOGY, COMPUTER SCIENCE ENGINEERING
-LOVELY PROFESSIONAL UNIVERSITY — FINAL YEAR
-Relevant Coursework: Cybersecurity, AI & Machine Learning, Software Development, Databases
+Other Passions: Creative Writing ✍️ | Exploring Cultures 🌏 | Fine Arts 🎨
 
-🛠️ SKILLS & EXPERTISE
-PROGRAMMING LANGUAGES: PYTHON 🐍, JAVA, C++, JAVASCRIPT
+🔥 What I’m Building & Have Built
+1. AI-Powered Cybersecurity Automation System 🛡️🤖
+Developed a next-gen system combining UiPath automation + custom ML models to detect and respond to malware threats in real-time.
 
-FRAMEWORKS & TOOLS: REACT.JS, FLASK, UIPATH, GIT
+Integrated multi-source threat intelligence and automated incident playbooks to shut down attacks before they escalate.
 
-DATABASES: MYSQL, MONGODB
+2. Love Story Novel 📖❤️
+Authored a heartfelt novel chronicling my journey with Geethika — blending romance and techie life into a creative masterpiece.
 
-CLOUD & DEVOPS: AWS BASICS, CI/CD PIPELINES
+3. Fine Arts & Culture Projects 🎨🌍
+Dive deep into diverse cultures through visual storytelling, blending my passion for art and human stories.
 
-CYBERSECURITY: MALWARE ANALYSIS, AUTOMATED INCIDENT RESPONSE, THREAT INTELLIGENCE INTEGRATION
+4. Web & App Dev Projects 🌐📱
+Built full-stack applications with sleek UI/UX, focusing on performance, scalability, and user engagement.
 
-AI & MACHINE LEARNING: ANOMALY DETECTION, CYBERSECURITY ANALYTICS
+💡 What Drives Me?
+Passion for Learning: Always pushing boundaries with new tech & creative expression.
 
-📁 NOTABLE PROJECTS
-AI-POWERED CYBERSECURITY AUTOMATION SYSTEM
-Integrated UiPath automation with ML models to detect and respond to cyber threats in real time. ⚙️
+Innovative Mindset: Finding outside-the-box solutions to real-world problems.
 
-PERSONAL NARRATIVE NOVEL
-A novel chronicling the journey of personal and professional growth. 📖
+Empathy & Storytelling: Crafting tech that connects people & tells their stories.
 
-CULTURAL & ARTISTIC EXPLORATION
-Projects fusing visual arts with cultural research to enhance empathy-driven design. 🎨
+Fine Arts Lover: Merging design and tech for impactful experiences.
 
-FULL-STACK WEB APPLICATIONS
-Developed scalable apps focused on clean architecture and refined user experience. 🌐
+📫 Let’s Connect!
+I’m all about collaborations, new ideas, and vibing with fellow creators.
+Hit me up if you want to talk tech, art, biryani, or just share cool stories! 😄🔥
 
-📬 CONTACT
-Open to professional networking and collaborations. Reach out to discuss tech, art, or innovative projects. 🤝
-harshamaram69@gmail.com
-erenyeager9128@gail.com
 
-CRAFTED WITH PRECISION AND PASSION
-Harsha Maram | Batch 2025 CSE | LOVELY PROFESSIONAL UNIVERSITY
