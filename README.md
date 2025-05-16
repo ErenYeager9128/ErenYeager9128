@@ -1,109 +1,59 @@
-🚀 SRIHARSHA MARAM 🚀
-👨‍💻 Tech Enthusiast | Cybersecurity Specialist | AI Developer
-Show Image
-Show Image
-Show Image
-Show Image
+Harsha Maram — BTECH CSE , COMPUTER SCIENCE ENGINEERING @LPU
+👤 PROFILES
 
-🛠️ TECHNICAL SKILLS
-Programming Languages
-Python 🐍
-Java ☕
-C++ ⚙️
-Frameworks & Technologies
-HTML & CSS 🌐
-XGBoost 📊
-Scikit-learn 🧠
-TensorFlow 🤖
-ASP.NET Core 🔷
-Tools & Platforms
-MySQL 💾
-Git 📝
-SIEM Tools 🛡️
-Linux 🐧
-Automation Anywhere 🤖
-UiPath ⚙️
-Google Colab 📓
-Soft Skills
-Problem-Solving 🧩
-Leadership 👑
-Team Management 👥
-Adaptability 🌊
-🏆 PROJECTS
-AI-Driven Automated Malware Analysis & Incident Response System
-September 2024 - February 2025
 
-📌 Built an advanced modular system for automated threat detection and incident response using AI.
+LINKEDIN: linkedin.com/in/Harsha maram
 
-📌 Developed a Threat Score Consolidator to assess risks and initiate automated responses including file isolation and alerting.
+PORTFOLIO: Coming Soon...
 
-📌 Automated report generation and notifications via PDF export, Google Drive uploads, and Twilio SMS alerts.
+💼 ROLES & RESPONSIBILITIES
+CYBERSECURITY AUTOMATION ENGINEER (STUDENT PROJECTS)
+Designing & implementing AI-driven malware detection and automated incident response systems.
 
-Technologies Used:
+FULL-STACK DEVELOPER
+Crafting scalable, clean-architecture web applications with an emphasis on intuitive UX/UI.
 
-Python, Scikit-learn, Tkinter
-VirusTotal API, AlienVault OTX
-Twilio, Google Drive API
-Excel integration, NLP
-Humans of LPU (Desktop Version)
-March 2025
+CREATIVE WRITER & STORYTELLER
+Authoring a novel blending personal growth and technical journey narratives.
 
-📌 Built a desktop version of LPU Touch using Electron to provide students with a centralized platform for accessing university-related information.
+CULTURAL RESEARCHER & FINE ARTS ENTHUSIAST
+Integrating artistic and cultural insights into technology and design thinking.
 
-📌 Integrated a custom UI with responsive window controls, data persistence via local JSON storage, and platform-specific menu options for seamless UX.
-
-📌 Included an "About" section and designed with scalability in mind for future modules like academic calendars, notices, or timetable views.
-
-Technologies Used:
-
-Electron.js, JavaScript, Node.js
-HTML/CSS, JSON, MySQL
-Architecture Backward Compatibility Module
-April 2024 - June 2024
-
-📌 Developed a custom module for rooted Android devices to enable backward compatibility, allowing 32-bit applications to run seamlessly on 64-bit Android architecture.
-
-📌 Implemented using Magisk for root-level modifications, enabling the loading of necessary 32-bit libraries alongside 64-bit system components.
-
-📌 Addressed compatibility issues faced by legacy apps on modern devices.
-
-Technologies Used:
-
-Magisk, Android, Linux
-Rooted Devices
-System-Level Modifications
-Custom Modules
-📜 CERTIFICATIONS
-Automation Anywhere Certified Community 🤖 (December 2023)
-ISC2 Pearson 🔐 (January 2025)
-Data Structures and Algorithms - GFG 📊 (July 2024)
-🏅 ACHIEVEMENTS
-Solving 100+ problems on HackerRank and LeetCode (Since 2024)
-Focusing on topics like dynamic programming, graph algorithms, and data structures.
-Head of the Public Speaking Department of OASIS & Department of Youth Capital (Since 2023)
-Hosted multiple events and led hackathons while delivering keynotes on academic division affairs in University.
 🎓 EDUCATION
-Lovely Professional University | Phagwara, Punjab
-Bachelor of Technology - Computer Science and Engineering
-September 2021 - July 2025
-CGPA: 7.1
+BACHELOR OF TECHNOLOGY, COMPUTER SCIENCE ENGINEERING
+LOVELY PROFESSIONAL UNIVERSITY — FINAL YEAR
+Relevant Coursework: Cybersecurity, AI & Machine Learning, Software Development, Databases
 
-Sri Chaitanya Institutions | Vijayawada, A.P
-12th State
-April 2019 - March 2021
-Percentage: 93.20%
+🛠️ SKILLS & EXPERTISE
+PROGRAMMING LANGUAGES: PYTHON 🐍, JAVA, C++, JAVASCRIPT
 
-Sri Viswashanti Edu Ins | Vuyyuru, Andhra Pradesh
-10th CBSE
-April 2018 - March 2019
-Percentage: 96.4%
+FRAMEWORKS & TOOLS: REACT.JS, FLASK, UIPATH, GIT
 
-💡 PASSION & INTERESTS
-I'm passionate about leveraging cutting-edge technology to solve real-world cybersecurity challenges. My interests lie at the intersection of artificial intelligence and security, where I continuously explore innovative ways to detect and mitigate emerging threats.
+DATABASES: MYSQL, MONGODB
 
-As a technology enthusiast with a keen interest in system architecture and security frameworks, I enjoy staying ahead of the curve by learning new tools and techniques. I'm particularly drawn to automation solutions that enhance security postures while improving operational efficiency.
+CLOUD & DEVOPS: AWS BASICS, CI/CD PIPELINES
 
-My goal is to contribute to building more resilient digital ecosystems that can adapt to evolving threat landscapes while maintaining usability and performance.
+CYBERSECURITY: MALWARE ANALYSIS, AUTOMATED INCIDENT RESPONSE, THREAT INTELLIGENCE INTEGRATION
 
-"Technology is best when it brings people together."
+AI & MACHINE LEARNING: ANOMALY DETECTION, CYBERSECURITY ANALYTICS
 
+📁 NOTABLE PROJECTS
+AI-POWERED CYBERSECURITY AUTOMATION SYSTEM
+Integrated UiPath automation with ML models to detect and respond to cyber threats in real time. ⚙️
+
+PERSONAL NARRATIVE NOVEL
+A novel chronicling the journey of personal and professional growth. 📖
+
+CULTURAL & ARTISTIC EXPLORATION
+Projects fusing visual arts with cultural research to enhance empathy-driven design. 🎨
+
+FULL-STACK WEB APPLICATIONS
+Developed scalable apps focused on clean architecture and refined user experience. 🌐
+
+📬 CONTACT
+Open to professional networking and collaborations. Reach out to discuss tech, art, or innovative projects. 🤝
+harshamaram69@gmail.com
+erenyeager9128@gail.com
+
+CRAFTED WITH PRECISION AND PASSION
+Harsha Maram | Batch 2025 CSE | LOVELY PROFESSIONAL UNIVERSITY
