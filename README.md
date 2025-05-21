@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi , my name is Minho and I do some software glitches.
+
+# Hi , my name is Minho and I do some software glitches.
 
 
 ## 🌐 Socials:
